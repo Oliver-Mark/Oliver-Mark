@@ -7,6 +7,5 @@
 
 👨‍🎓 Estou aprimorando meus conhecimentos no mundo de software, estudando as seguintes tecnologias:
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
                  
